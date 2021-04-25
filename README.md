@@ -1,7 +1,6 @@
 # Budget_Tracker
 
 # Description <a name="description"></a>
-<<<<<<< HEAD
 The user will able to add expenses and deposits to their budget with or without a connection. When entering transactions offline
 , they should populate the total when it bought back online.
 
@@ -12,17 +11,6 @@ The user will able to add expenses and deposits to their budget with or without 
 ## [Screenshot](#screenshot)
 
 ## [Deployment](#deployment)
-=======
-The user will able to add expenses and deposits to their budget with or without a connection. 
-
-# Table Of Contents
-
-[Description](#description)
-
-[Screenshot](#screenshot)
-
-[Deployment](#deployment)
->>>>>>> 0f58031cb5d6831903e9dc0a951f1cd14ebdbd4e
 
 # Screenshot <a name = "screenshot"></a>
 ![](public/graph.PNG)
