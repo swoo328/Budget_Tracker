@@ -1,7 +1,6 @@
 # Budget_Tracker
 
 # Description <a name="description"></a>
-<<<<<<< HEAD
 The user will able to add expenses and deposits to their budget with or without a connection. When entering transactions offline
 , they should populate the total when it bought back online.
 
@@ -12,17 +11,8 @@ The user will able to add expenses and deposits to their budget with or without 
 ## [Screenshot](#screenshot)
 
 ## [Deployment](#deployment)
-=======
-The user will able to add expenses and deposits to their budget with or without a connection. 
 
-# Table Of Contents
-
-[Description](#description)
-
-[Screenshot](#screenshot)
-
-[Deployment](#deployment)
->>>>>>> 0f58031cb5d6831903e9dc0a951f1cd14ebdbd4e
+## [Tech Used](#tech)
 
 # Screenshot <a name = "screenshot"></a>
 ![](public/graph.PNG)
@@ -32,7 +22,7 @@ https://github.com/swoo328/Budget_Tracker
 
 https://bugdettrackkk.herokuapp.com/
 
-# Tech Used 
+# Tech Used <a name = "Tech"></a>
 1. MongoDB
 2. IndexDB
 3. Express
