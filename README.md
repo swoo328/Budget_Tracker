@@ -5,11 +5,11 @@ The user will able to add expenses and deposits to their budget with or without 
 
 # Table Of Contents
 
-[Description](#description)
+# [Description](#description)
 
-[Screenshot](#screenshot)
+# [Screenshot](#screenshot)
 
-[Deployment](#deployment)
+# [Deployment](#deployment)
 
 # Screenshot <a name = "screenshot"></a>
 ![](public/graph.PNG)
