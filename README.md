@@ -5,7 +5,7 @@
 The user will able to add expenses and deposits to their budget with or without a connection. 
 
 # Table Of Contents
-# * [ Description. ](#desc)
+[ Description. ](#desc)
 
 
 # Screenshot
@@ -13,4 +13,5 @@ The user will able to add expenses and deposits to their budget with or without 
 
 # Deployment
 https://github.com/swoo328/Budget_Tracker
+
 https://bugdettrackkk.herokuapp.com/
