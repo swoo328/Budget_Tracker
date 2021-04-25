@@ -1,6 +1,6 @@
 # Budget_Tracker
 
-# Description
+1. [(#desc)
 The user will able to add expenses and deposits to their budget with or without a connection. 
 
 # Table Of Contents
