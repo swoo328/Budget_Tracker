@@ -11,8 +11,11 @@ The user will able to add expenses and deposits to their budget with or without 
 ## [Screenshot](#screenshot)
 
 ## [Deployment](#deployment)
+<<<<<<< HEAD
 
 ## [Tech Used](#tech)
+=======
+>>>>>>> 10b6d4cb00b3f6bf0856507bdeccc289672ed098
 
 # Screenshot <a name = "screenshot"></a>
 ![](public/graph.PNG)
