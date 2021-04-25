@@ -6,7 +6,9 @@ The user will able to add expenses and deposits to their budget with or without 
 # Table Of Contents
 
 [Description](#description)
+
 [Screenshot](#screenshot)
+
 [Deployment](#deployment)
 
 # Screenshot <a name = "screenshot"></a>
