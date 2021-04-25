@@ -1,10 +1,11 @@
 # Budget_Tracker
 
-1. [(#desc)
+1.[ Description. ](#desc)
 The user will able to add expenses and deposits to their budget with or without a connection. 
 
 # Table Of Contents
-[ Description. ](#desc)
+<a name="desc"></a>
+## 1. Description
 
 
 # Screenshot
