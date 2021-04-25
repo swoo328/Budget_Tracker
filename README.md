@@ -4,8 +4,7 @@
 The user will able to add expenses and deposits to their budget with or without a connection. 
 
 # Table Of Contents
-<a name="desc"></a>
-## 1. Description
+<a name="desc">Description</a>
 
 # Screenshot
 ![](public/graph.PNG)
